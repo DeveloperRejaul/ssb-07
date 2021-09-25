@@ -202,7 +202,7 @@ nav{
     background: #f9f9f9;
     padding: 20px 2% 20px 19%; 
     margin: 0;
-    width: fit-content;
+    width: auto;
 }
 .large-container{
     padding-left: 7%;
